@@ -10,6 +10,7 @@ body {
 .image{
     border: 5px solid green;
     border-radius: 10px;
+    height: 400px; 
     height: 400px;
     display: flex;
     justify-content: center;
@@ -27,6 +28,14 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+h2 {
+    
+    color: darkblue;
+    background-color: ghostwhite;
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid gray;
+}
 h1::first-letter{
     color:red;
 }
