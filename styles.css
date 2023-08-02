@@ -45,3 +45,7 @@ h1{
     letter-spacing: 2px;
     font-weight: 20px;
 }
+p {
+    font-size: 21px;
+    color: rgb(2, 2, 51);
+}
